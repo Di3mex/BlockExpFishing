@@ -1,0 +1,7 @@
+name: ${project.artifactId}
+main: ${project.mainclass}
+version: ${project.version}
+description: ${project.description}
+dev-url: ${project.url}
+#project lead
+author: Diemex
